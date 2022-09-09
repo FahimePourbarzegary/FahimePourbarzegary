@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<h1>### Hi there 👋</h1>
 
 - 🔭 I’m currently working on html&css&js
 - 🌱 I’m currently learning React.js&Redux
