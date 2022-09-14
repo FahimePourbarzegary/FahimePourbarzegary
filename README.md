@@ -17,6 +17,4 @@ Contact with me:
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/fahime-pourbarzegary-a59698229/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahimePourbarzegary&show_icons=true&theme=radical)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimePourbarzegary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
