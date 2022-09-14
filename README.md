@@ -5,7 +5,7 @@
 <br/>
 I`m Front-end developer and live in Iran.
 <br/>
-Languages and Tools:  REACT / Redux / JS / HTML / CSS / TailWind
+Languages and Tools: HTML / CSS / JS / TAILWIND / REACT / REDUX
 
 ![](https://medium.com/saravananraghul/top-10-websites-for-coding-challenge-and-competition-for-all-in-2020-3c06251c7348)
 <br/>
